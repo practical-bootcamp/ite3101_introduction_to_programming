@@ -14,7 +14,7 @@
 			"NODE_VERSION": "none"
 		}
 	},
-	"capAdd":["CAP_LINUX_IMMUTABLE "],
+	"capAdd":["CAP_LINUX_IMMUTABLE"],
 	// Configure tool-specific properties.
 	"customizations": {
 		// Configure properties specific to VS Code.
